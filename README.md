@@ -2,6 +2,8 @@
 
 This is a lego pencil holder that my 7 year old son and I designed and built.
 
+![Lego Pencil Holder](https://raw.githubusercontent.com/fusion94/lego-pencil-holder/master/pencil-holder.png "Lego Pencil Holder")
+
 It was designed using [Studio](https://www.bricklink.com/v3/studio/download.page) from BrickLink.
 
 ### What is Studio?
@@ -9,5 +11,5 @@ Studio is a desktop application that allows users to build LEGO models using vir
 
 Studio is completely free to use and runs on both Windows and Mac. Although a BrickLink account is not necessary to run Studio, registered users will have the added bonus of being able to build with friends in real-time.
 
-![Lego Pencil Holder](https://raw.githubusercontent.com/fusion94/lego-pencil-holder/master/pencil-holder.png "Lego Pencil Holder")
+
 
