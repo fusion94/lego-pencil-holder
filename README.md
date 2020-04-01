@@ -1,6 +1,6 @@
-# Lego Pencil Holder
+# LEGO Pencil Holder
 
-This is a lego pencil holder that my 7 year old son and I designed and built during the Shelter in Place order in California during the COVID-19 lockdown of 2020. 
+This is a LEGO Pencil Holder that my 7 year old son and I designed and built during the Shelter in Place order in California during the COVID-19 lockdown of 2020. 
 
 ![Lego Pencil Holder](https://raw.githubusercontent.com/fusion94/lego-pencil-holder/master/pencil-holder-v2.png "Lego Pencil Holder")
 
