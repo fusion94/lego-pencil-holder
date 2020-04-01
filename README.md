@@ -2,7 +2,7 @@
 
 This is a lego pencil holder that my 7 year old son and I designed and built.
 
-![Lego Pencil Holder](https://raw.githubusercontent.com/fusion94/lego-pencil-holder/master/pencil-holder.png "Lego Pencil Holder")
+![Lego Pencil Holder](https://raw.githubusercontent.com/fusion94/lego-pencil-holder/master/pencil-holder-v2.png "Lego Pencil Holder")
 
 It was designed using [Studio](https://www.bricklink.com/v3/studio/download.page) from BrickLink.
 
